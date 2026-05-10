@@ -24,7 +24,7 @@ Explanation: Uses a Queue to visit neighbors level-by-level. It explores all imm
 
 Use Cases: Finding the shortest path in unweighted graphs or social networking.  
 
-Time Complexity: $O(V + E).  
+Time Complexity: O(V + E).  
 
 DFS (Depth-First Search)
 
@@ -32,7 +32,7 @@ Explanation: Uses a Stack (via recursion) to go as deep as possible along a bran
 
 Use Cases: Solving puzzles (like mazes), topological sorting, or detecting cycles in a graph.  
 
-Time Complexity: $O(V + E).  
+Time Complexity: O(V + E).  
 
 D. Experimental Results
 
